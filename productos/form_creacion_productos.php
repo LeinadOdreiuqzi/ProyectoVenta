@@ -23,7 +23,7 @@ include('../layout/parte1.php'); // Cabecera
                         <div class="card-body" style="display: block;">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <form action="creacion_productos.php" method="post">
+                                    <form action="crear_productos.php" method="post">
                                         <div class="form-group">
                                             <label for="descripcion">Descripcion</label>
                                             <input type="text" name="descripcion" class="form-control" placeholder="Descripcion del producto..." required>
